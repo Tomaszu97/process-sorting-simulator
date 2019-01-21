@@ -1,0 +1,14 @@
+#Process ID, Arrival Time, Burst Time[, Completion Time, TurnAround Time, Waiting Time]
+2,0,96,96,96,0
+8,0,112,208,208,96
+4,0,130,338,338,208
+5,300,24,362,62,38
+3,300,25,387,87,62
+6,300,28,415,115,87
+7,300,33,448,148,115
+1,300,89,537,237,148
+0,0,141,678,678,537
+9,0,170,848,848,678
+#Algorithm used: SJF
+#Average Waiting Time: 196.9
+#Average TurnAround Time: 281.7
