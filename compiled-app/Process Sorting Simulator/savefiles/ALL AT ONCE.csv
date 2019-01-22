@@ -1,0 +1,14 @@
+#Process ID, Arrival Time, Burst Time[, Completion Time, TurnAround Time, Waiting Time]
+0,0,41,41,41,0
+1,0,34,75,75,41
+2,0,37,112,112,75
+3,0,15,127,127,112
+4,0,39,166,166,127
+5,0,14,180,180,166
+6,0,18,198,198,180
+7,0,27,225,225,198
+8,0,37,262,262,225
+9,0,47,309,309,262
+#Algorithm used: FCFS
+#Average Waiting Time: 138.6
+#Average TurnAround Time: 169.5
